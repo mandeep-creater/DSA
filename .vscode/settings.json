@@ -2,9 +2,11 @@
     "C_Cpp.errorSquiggles": "disabled",
     "java.debug.settings.onBuildFailureProceed": true,
     "files.associations": {
+        "*.embeddedhtml": "html",
         "iostream": "cpp",
         "array": "cpp",
         "deque": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "algorithm": "cpp"
     }
 }
